@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ellipse slider", "Ellipse slider\Ellipse slider.csproj", "{D313B6AA-4B43-4A69-8135-9841CD30046B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D313B6AA-4B43-4A69-8135-9841CD30046B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D313B6AA-4B43-4A69-8135-9841CD30046B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D313B6AA-4B43-4A69-8135-9841CD30046B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D313B6AA-4B43-4A69-8135-9841CD30046B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A841DE52-C893-4E48-B69C-A07399660309}
+	EndGlobalSection
+EndGlobal
